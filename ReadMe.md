@@ -1,3 +1,17 @@
+```
+Приклади ігрового перекладу:
+unit = одиниця
+deals 10 damage = наносить 10 од. шкоди
+mechanical and air units = механічні та повітряні одиниці
+units and buildings = одиниці та споруди
+45 damage a second for 3 seconds = 45 од. шкоди в сек. протягом 3 сек.
+Milan eats the elven bread and heals self for <AMeb,DataA2> hit points. = Мілан з'їдає ельфійський хліб і відновлює <AMeb,DataA2> од. здоров'я.
+Ensnare - [|cffffcc00Level 1|r] = Оплутати - [|cffffcc00Рівень 1|r]
+Arcane Storm = Хуртовина потаємних знань
+Gives permanent 150 bonus to hit points when worn = Під час носіння дає постійний бонус 150 од. здоров'я 
+```
+
+
 ```javascript
 Риси говірки тролів:
 Шокання і шекання
